@@ -1,12 +1,12 @@
 {
-  "main": 8091,
-  "main-archive": 1096,
-  "main-rabota": 1039,
-  "main-internet": 880,
-  "main-bonus": 865,
-  "main-news": 760,
-  "main-tariffs": 669,
-  "main-online": 584,
-  "main-vklad": 514,
-  "main-archive-rabota": 167
+    "main": 8185,
+    "main-archive": 1113,
+    "main-rabota": 1047,
+    "main-internet": 897,
+    "main-bonus": 870,
+    "main-news": 769,
+    "main-tariffs": 677,
+    "main-online": 587,
+    "main-vklad": 517,
+    "main-rabota-archive": 170
 }
